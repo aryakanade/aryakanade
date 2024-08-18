@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryakanade&label=Profile%20views&color=0e75b6&style=flat" alt="aryakanade" /> </p>
 
+<p align="center"<img src="https://in.images.search.yahoo.com/images/view;_ylt=AwrKAKnA0MFmtnsYTdu9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2JmYWM3MWI3ZTU4ODMwOTlkN2E5ZDBmOGU0NjFlYzhmBGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Deat%2Bsleep%2Bcode%2Brepeat%2Bwallpaper%26type%3DE210IN105G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D3&w=3840&h=2160&imgurl=images.wallpapersden.com%2Fimage%2Fdownload%2Fprogrammer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRobWllrWdma2U.jpg&rurl=https%3A%2F%2Fwallpapersden.com%2Fprogrammer-eat-sleep-code-and-repeat-wallpaper%2F&size=228.7KB&p=eat+sleep+code+repeat+wallpaper&oid=bfac71b7e5883099d7a9d0f8e461ec8f&fr2=piv-web&fr=mcafee&tt=Programmer+Eat%2C+Sleep+Code+%26+Repeat+Wallpaper%2C+HD+Artist+4K+Wallpapers+...&b=0&ni=21&no=3&ts=&tab=organic&sigr=eUZmQjlzuRiI&sigb=TlhkVvuayEUu&sigi=jGFWAeU.1qzr&sigt=Ddag7XYC6Jzg&.crumb=MlrjMCMaF.q&fr=mcafee&fr2=piv-web&type=E210IN105G0" alt="code"/></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryakanade" alt="aryakanade" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack**

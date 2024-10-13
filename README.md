@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **Full Stack MERN Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@kanadearya](https://medium.com/@kanadearya)
 
